@@ -1,0 +1,1 @@
+function initListeners(){$("#login").on("click",(n=>{$("#modal").toggle()})),$(".close").on("click",(n=>{$("#modal").toggle()}))}$(document).ready((function(){initListeners()}));

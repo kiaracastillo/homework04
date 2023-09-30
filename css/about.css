@@ -1,0 +1,115 @@
+.site-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.site-wrapper .hero2 {
+  height: 630px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.63)), to(rgba(0, 0, 0, 0.5))), url(../images/hero2.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.63), rgba(0, 0, 0, 0.5)), url(../images/hero2.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.site-wrapper .hero2 .callout {
+  width: 50%;
+  margin-top: 160px;
+  margin-left: 50px;
+}
+.site-wrapper .hero2 .callout h1 {
+  color: rgb(255, 0, 89);
+  margin-bottom: 35px;
+  margin-top: 50px;
+}
+.site-wrapper .hero2 .callout button {
+  background-color: rgb(255, 0, 89);
+  color: #fff;
+  width: 150px;
+  height: 35px;
+  border: rgb(255, 0, 89);
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.site-wrapper .hero2 .callout p {
+  color: #fff;
+}
+
+.photo2 {
+  margin-top: 70px;
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-bottom: 80px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.photo2 .p1 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/p1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo2 .p2 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/p2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo2 .p3 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/p3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.photo2 .p4 {
+  width: 250px;
+  height: 300px;
+  background-color: #212121;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  margin: 0 20px 0 20px;
+  background-image: url("../images/p4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.info {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.info h4 {
+  color: rgb(255, 0, 89);
+  text-align: center;
+}
+.info p {
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+}

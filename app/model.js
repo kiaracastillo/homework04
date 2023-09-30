@@ -44,6 +44,35 @@ var homeContent =`
 
 `;
 var aboutContent =`
+<div class="site-wrapper">
+
+    <div class="hero2">
+        
+</div>
+
+</div>
+
+<div class="photo2">
+
+    <div class="p1">
+        <div class="photo1"></div>
+    </div>
+    <div class="p2">
+        <div class="photo2"></div>
+    </div>
+    <div class="p3">
+        <div class="photo3"></div>
+    </div>
+    <div class="p4">
+        <div class="photo4"></div>
+    </div>
+   
+  </div>
+
+  <div class="info">
+    <h4>Lorem ipsum</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum commodi, saepe ipsam harum omnis quasi debitis. Repellat cupiditate maiores numquam incidunt. Facilis ab quod quidem deleniti non. Possimus dignissimos explicabo commodi libero officia. Quia fuga commodi nemo eligendi. Facere fugiat placeat recusandae, asperiores soluta ducimus eaque sit. Amet nam aperiam placeat repellendus fuga iusto omnis suscipit ad aspernatur consequatur cum dicta alias, laudantium voluptatibus quos. Fugit veniam ad minus, aspernatur ratione natus aliquam nemo ipsa doloribus iusto eum omnis, vel unde provident nulla totam incidunt nihil repellat vitae harum dicta eveniet. Voluptate error quae iure iste quaerat, quo alias esse earum tempore ut rerum non illum numquam. Rerum, necessitatibus. Quos aut perferendis voluptas quia maiores pariatur eaque aliquam laborum numquam provident. Nemo animi saepe molestias veniam consequuntur dolore tenetur quam, praesentium accusantium sapiente doloribus qui expedita delectus placeat optio, itaque aut rerum atque ipsam voluptas totam quaerat nesciunt. Harum distinctio quaerat repellat ipsam voluptates possimus nostrum neque dolores aut quos omnis laborum delectus iste enim, perferendis fugiat obcaecati veritatis tenetur non voluptas nam commodi! Tempora eveniet veritatis blanditiis dignissimos voluptatum nobis quod consequuntur quasi hic pariatur, iusto labore dolore accusamus alias dicta necessitatibus est laudantium cumque voluptas laboriosam facilis molestiae debitis possimus! Harum necessitatibus dolor quo quasi veritatis esse impedit iste neque, deserunt maxime rerum doloribus ut inventore quam illum, molestiae, tempore magni! Maxime beatae, illum nisi alias dolores, maiores dolorum assumenda cumque modi aliquam nihil voluptatibus ab necessitatibus voluptates. Expedita, inventore numquam ea tempore natus consequatur itaque illo libero iusto magni fugiat neque deleniti ipsum reiciendis, fuga velit alias beatae nostrum. Rerum, delectus quae, necessitatibus reprehenderit debitis at maxime aliquid, ipsam eum iste ducimus ad illo qui fugiat? Quam delectus id consequuntur nesciunt aut, repellendus cumque voluptatibus minima commodi hic non necessitatibus animi nulla odit excepturi cum provident doloribus quasi nam quos? Sunt omnis similique, a optio ullam architecto dicta veniam nobis et perferendis beatae deserunt tempore eum harum quia maxime reiciendis consectetur necessitatibus! Consectetur dolor itaque repellendus autem illo earum quae! Sit magnam rerum ad animi. Ab velit aliquid ad dicta fuga, quam reiciendis libero sint architecto delectus repellat temporibus alias, quo accusamus adipisci illum atque magni possimus mollitia provident ratione! Totam ex similique deleniti, magni beatae culpa blanditiis veniam mollitia quis aut ullam ipsum, commodi itaque reiciendis fuga distinctio sunt harum, et dolorum consequatur officia voluptas. Ratione sed a nobis quasi ab voluptatem dolor vero eum possimus.</p>
+  </div>
 `;
 var productsContent =`
 
